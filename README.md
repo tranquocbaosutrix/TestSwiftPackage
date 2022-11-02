@@ -1,2 +1,3 @@
-# TestSwiftPackage
-Just a test Swift package
+# SOTPCake
+
+A description of this package.
